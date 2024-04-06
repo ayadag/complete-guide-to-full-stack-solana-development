@@ -8,7 +8,7 @@
     "@solana/wallet-adapter-react-ui": "^0.2.1",
     "@solana/wallet-adapter-wallets": "^0.8.1",
     "fs": "^0.0.1-security",
-    "@ledgerhq/devices/hid-framing": "8.2.2",
+    "@ledgerhq/devices": "8.2.2",
     
     "@solana/web3.js": "^1.26.0",
     "@testing-library/jest-dom": "^5.11.4",
