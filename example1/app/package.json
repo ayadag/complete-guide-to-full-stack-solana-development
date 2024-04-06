@@ -8,7 +8,7 @@
     "@solana/wallet-adapter-react-ui": "^0.2.1",
     "@solana/wallet-adapter-wallets": "^0.8.1",
     "fs": "^0.0.1-security",
-
+    "@ledgerhq/devices/hid-framing": "8.2.2",
     
     "@solana/web3.js": "^1.26.0",
     "@testing-library/jest-dom": "^5.11.4",
@@ -20,6 +20,8 @@
     "web-vitals": "^1.0.1"
   },
   "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   },
   "scripts": {
